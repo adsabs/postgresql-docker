@@ -1,4 +1,4 @@
-Docker build for postgresql-9.3 as per https://docs.docker.com/examples/postgresql_service/
+Docker build for postgresql-9.5 as per https://docs.docker.com/examples/postgresql_service/
 
 ---
 
